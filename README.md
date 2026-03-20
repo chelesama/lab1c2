@@ -1,5 +1,5 @@
 # lab1c2
-# 🖤 Registro Emocional - Vue.js
+# 🖤 Registro Emocional 
 
 ##  Descripción del proyecto
 
